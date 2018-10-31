@@ -1,5 +1,5 @@
 # mytechblog
-# Write on large scale event processing system in Site Reliability
+# Large scale event processing system in Site Reliability
 # Introduction
 A highly available and highly reliable system is appreciated and patronized for a better customer experience and retention. Such a system is always backed by a superior monitoring model that that keeps downtimes at bay. Successful serve a high octane traffic that requires minimal time to recover from any site incident. Site Reliability is a field of study and practice that focuses intensively on reliability/availability/resiliency/security aspects of a system and ways to improve the said metrics.
 # Preface
